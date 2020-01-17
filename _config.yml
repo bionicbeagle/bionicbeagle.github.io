@@ -22,7 +22,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-octicons
-  - jekyll-ditaa
 
 titles_from_headings:
   enabled:     true
