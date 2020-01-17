@@ -11,8 +11,8 @@ description: Random foohoo
 github_username: bionicbeagle
 
 # Email and twitter are optional:
-email: 
-twitter_username: 
+email: stefan@boberg.org
+twitter_username: bionicbeagle
 
 # Set this to true to get LaTeX math equation support
 use_math: 
