@@ -1,3 +1,3 @@
 ## Blog
 
-Yeah ok, something's going to go here soon.
+Placeholder post. Something's going here soon.
